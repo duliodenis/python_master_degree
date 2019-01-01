@@ -13,10 +13,11 @@ This repo contains twelve projects from the [Python Techdegree program](https://
 
 ## The Bachelor, Master, & Doctoral Techdegree Program
 Modelled after an academic structure this intensely focused area of study is broken down into the following curriculum.
+
 | No. | Degree | Year | Name | Status
 | --- | --- | --- | --- | ---
 | 1. | Bachelor | Freshman | Beginning Python | ![](art/checkmark.png?raw=true)
-| 2. | Bachelor | Sophomore | Intermediate Python |  ![](art/working.png?raw=true)
+| 2. | Bachelor | Sophomore | Intermediate Python | ![](art/working.png?raw=true)
 | 3. | Bachelor | Junior | Flask Framework
 | 4. | Bachelor | Senior | Django Framework
 | 5. | Master | Year 1 | Algorithms & Data Structures
