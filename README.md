@@ -47,7 +47,7 @@ Modelled after an academic structure this intensely focused area of study is bro
 |     | Total Project Time | 159 hours
 
 # Units
-The Bachelor's Fullstack Python Treehouse Techdegree is composed of the following twelve units. The Masters and Doctoral Extensions contribute three additional units bringing the courses to over 50 courses.
+The Bachelor's Fullstack Python Treehouse Techdegree is composed of the following twelve units. The Masters and Doctoral Extensions contribute three additional units bringing the overall course work to 50 courses. Below is my status and how long it took me to complete.
 
 | Unit | Name | Courses  | Dates | Days
 | --- | ------------- | ----- | ---- | ---
@@ -203,7 +203,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | P12. | Project 12: Social Team Builder
 
 ## Unit 13: Algorithms & Data Structures
-> Techdegree First Year Master Level.
+> First Year Master Level.
 
 > In this track learn about two of the fundamental topics in computer science - algorithms and data structures.
 
@@ -218,7 +218,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | 29. | [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
 
 ## Unit 14: Data Science
-> Techdegree Second Year Master Level with fourteen courses.
+> Second Year Master Level with fourteen courses.
 
 > Data science unifies statistics, data analysis, machine learning and their related methods in order to understand and analyze actual phenomena with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science. In this track, we'll be exploring the tools and techniques to get you started on your journey. You'll pick up the basic building blocks of how to analyze and communicate data findings.
 
@@ -243,7 +243,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | 43. | [Machine Learning Basics](https://teamtreehouse.com/library/machine-learning-basics)
 
 ## Unit 15: Deep Learning, Machine Learning, & AI
-> Techdegree Doctoral Level preparation for [Kaggle Competitions](https://www.kaggle.com/duliodenis).
+> Doctoral Level preparation for thesis work in a [Kaggle Competition](https://www.kaggle.com/duliodenis).
 
 > Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down. Master Beam Search and Random Hill Climbing, Bayes Networks and Hidden Markov Models, and more.
 
@@ -253,6 +253,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | 45. | [Practical Deep Learning For Coders, Part 2](https://course.fast.ai/part2.html)
 | 46. | [Introduction to Machine Learning for Coders](https://course.fast.ai/ml.html)
 | 47. | [Artifical Intelligence Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
+| 48. | Doctoral Thesis: TBA 
 
 ## Licensing
 My Python Master Degree projects are licensed under [the MIT License](LICENSE).
