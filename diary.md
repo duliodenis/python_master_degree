@@ -4,12 +4,14 @@
 
 This is my developer diary for my Python self study. 
 
-Day 32
+**Day 33**
 
 Month. | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31  
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
 | Dec | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31
-| Jan | 32
+| Jan | 32 | 33
+
+> 33. Wednesday, Jan 2, 2019. Course 8: Using Databases in Python: Started Diary App.
 
 > 32. Tuesday, Jan 1, 2019. Course 8: Using Databases in Python: Completed Meet Peewee.
 
