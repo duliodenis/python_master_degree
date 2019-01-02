@@ -12,7 +12,7 @@ This repo contains twelve projects from the [Python Techdegree program](https://
 ![](art/aind.png?raw=true)
 
 ## The Bachelor, Master, & Doctoral Techdegree Program
-Modelled after an academic structure this intensely focused area of study is broken down into the following curriculum.
+Modeled after an academic structure this intensely focused area of study is broken down into the following curriculum.
 
 | No. | Degree | Year | Name | Status
 | --- | --- | --- | --- | ---
@@ -47,7 +47,7 @@ Modelled after an academic structure this intensely focused area of study is bro
 |     | Total Project Time | 159 hours
 
 # Units
-The Bachelor's Fullstack Python Treehouse Techdegree is composed of the following twelve units. The Masters and Doctoral Extensions contribute three additional units bringing the overall course work to 50 courses. Below is my status and how long it took me to complete.
+The Bachelor's Fullstack Python Treehouse Techdegree is composed of the following twelve units. The Masters and Doctoral Extensions contribute three additional units bringing the overall course work to 50 courses. Below is my status and how long it took me to complete. Specific daily updates can be seen in my [developer diary](diary.md).
 
 | Unit | Name | Courses  | Dates | Days
 | --- | ------------- | ----- | ---- | ---
