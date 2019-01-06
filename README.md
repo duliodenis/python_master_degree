@@ -72,7 +72,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 ![](art/curriculum.png?raw=true)
 
 ## Unit 1: Python Basics
-> Kicks off the Freshman Year of Beginning Python track composed of the next three units.
+> Kicks off the Freshman Year with the Beginning Python track which is composed of the next three units.
 
 > In this Unit build a console number guessing game that prompts a player to choose a number between a specified range of numbers. After the user guesses the correct number, display the number of attempts it took them to guess correctly. 
 
@@ -106,7 +106,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | P3. | Project 3: Work Log
 
 ## Unit 4: Work Log with Database
-> The Sophomore Year of the Intermediate Python Track focuses on local development and best practices.
+> The Sophomore Year consists of the Intermediate Python Track and focuses on local development and best practices.
 
 > Design and add a database to a Python program. Use an ORM to store and search data from a work log. Print detailed reports to the screen. You'll also add unit tests, a professional programming technique that helps ensure the quality of a program. 
 
@@ -114,8 +114,8 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | --- | ------------- | ----
 | W2. | [File I/O](https://teamtreehouse.com/library/python-file-io) | ![](art/checkmark.png?raw=true)
 | W3. | [CSV & JSON](https://teamtreehouse.com/library/csv-and-json-in-python) | ![](art/checkmark.png?raw=true)
-| 8. | [Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python) | ![](art/working.png?raw=true) 
-| 9. | [Python Testing](https://teamtreehouse.com/library/python-testing)
+| 8. | [Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python) | ![](art/checkmark.png?raw=true) 
+| 9. | [Python Testing](https://teamtreehouse.com/library/python-testing) | ![](art/working.png?raw=true) 
 | W4. | [Comprehensions](https://teamtreehouse.com/library/python-comprehensions)
 | W5. | [Decorators](https://teamtreehouse.com/library/python-decorators)
 | W6. | [Type Hinting](https://teamtreehouse.com/library/python-type-hinting) 
@@ -123,7 +123,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | P4. | Project 4: Work Log with a DB
 
 ## Unit 5: Personal Learning Journal (Flask)
-> The Junior Year of the Exploring Flask track turns Python programs into web sites and apps with the Flask framework.
+> The Junior Year is composed of the Exploring Flask track that teaches how to turn Python programs into web sites and apps with the Flask framework.
 
 > Create a web application using HTML, CSS, and Flask, a popular framework for Python web development. The web application, a personal learning journal, lets a user add and edit journal entries and store the results in a database. The result is a useful, blog-like web application. 
 
@@ -136,7 +136,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | P5. | Project 5: Build a Personal Journal with Flask
 
 ## Unit 6: Mineral Catalog (Django)
-> The Senior Year of the Exploring Django track utilizes the world-class Django framework to build web sites and apps using the Python language for the next six units (6 - 12).
+> The Senior Year concludes the Bachelor program with the Exploring Django track which teaches how to utilize the world-class Django framework to build web sites and apps using the Python language for the next six units (6 - 12).
 
 > Experience with many types of websites is key for the best learning and understanding of Python web development. In this project, you will build a site that displays information about various minerals (rocks) using the Django framework. The site will display a list of all of the minerals in a database, with additional details available by clicking on specific minerals. Building apps in two different web frameworks will teach you what is similar and different in each and equip you with the knowledge to know which tool to use for different types of projects. 
 
