@@ -16,6 +16,8 @@
 #  Well, when that happens, you just might need
 #  a decorator. 
 # ------------------------------------------------
+from functools import wraps
+
 #  Nested functions
 def outer():
     number = 5
@@ -71,8 +73,9 @@ def logme(func):
     import logging
     logging.basicConfig(level=logging.DEBUG)
 
-    def inner():
-        logging.debug("Called {}".format(func.__name__))
+    def inner(*args, **kwargs):
+        logging.debug("Called {} with args {} and kwargs {}".format(
+            func.__name__, args, kwargs))
         return func()
     return inner
     
@@ -87,3 +90,34 @@ def print_4():
     print(4)
 
 print_4()
+
+# ------------------------------------------------
+#  More Decorators 
+print("--------------------------------------")
+def logme2(func):
+    import logging
+    logging.basicConfig(level=logging.DEBUG)
+
+    @wraps(func)
+    def inner(*args, **kwargs):
+        logging.debug("Called {} with args {} and kwargs {}".format(
+            func.__name__, args, kwargs))
+        return func(*args, **kwargs)
+    # instead of changing inner to the actual outer func
+    # inner.__name__ = func.__name__
+    # inner.__doc__ = func.__doc__
+    # use wraps from functools
+    return inner
+
+@logme2
+def sub2(x, y, switch=False):
+    if not switch:
+        print("{} - {} = {}".format(x, y, x - y))
+        return x - y
+    else:
+        print("{} - {} = {}".format(y, x, y - x))
+        return y - x
+
+sub2(5, 2)
+sub2(5, 2, switch=True)
+print(sub2.__name__)

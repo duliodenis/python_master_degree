@@ -116,10 +116,10 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | W3. | [CSV & JSON](https://teamtreehouse.com/library/csv-and-json-in-python) | ![](art/checkmark.png?raw=true)
 | 8. | [Using Databases in Python](https://teamtreehouse.com/library/using-databases-in-python) | ![](art/checkmark.png?raw=true) 
 | 9. | [Python Testing](https://teamtreehouse.com/library/python-testing) | ![](art/checkmark.png?raw=true) 
-| W4. | [Comprehensions](https://teamtreehouse.com/library/python-comprehensions) | ![](art/working.png?raw=true) 
-| W5. | [Decorators](https://teamtreehouse.com/library/python-decorators)
-| W6. | [Type Hinting](https://teamtreehouse.com/library/python-type-hinting) 
-| 10. | [Functional Python](https://teamtreehouse.com/library/functional-python)
+| W4. | [Comprehensions](https://teamtreehouse.com/library/python-comprehensions) | ![](art/checkmark.png?raw=true)
+| W5. | [Decorators](https://teamtreehouse.com/library/python-decorators) | ![](art/checkmark.png?raw=true)
+| W6. | [Type Hinting](https://teamtreehouse.com/library/python-type-hinting) | ![](art/checkmark.png?raw=true)
+| 10. | [Functional Python](https://teamtreehouse.com/library/functional-python) | ![](art/working.png?raw=true) 
 | P4. | Project 4: Work Log with a DB
 
 ## Unit 5: Personal Learning Journal (Flask)
