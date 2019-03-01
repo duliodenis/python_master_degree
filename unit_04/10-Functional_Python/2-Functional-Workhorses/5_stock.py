@@ -43,5 +43,11 @@ def sales_price(book):
     book.price = round(book.price-book.price*.2, 2)
     return book
 
-sales_books = list(map(sales_price, BOOKS))
+sales_books = list(map(sales_price, BOOKS)) # map version
+sales_books2 = [sales_price(book) for book in BOOKS] # list comprehension version
+
 print(sales_books)
+print(sales_books2)
+print(BOOKS[0].price)
+print(sales_books[0].price)
+print(sales_books2[0].price)
