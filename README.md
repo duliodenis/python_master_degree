@@ -241,6 +241,9 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | 41. | [Scraping Data from the Web](https://teamtreehouse.com/library/scraping-data-from-the-web)
 | 42. | [Intro to Big Data](https://teamtreehouse.com/library/introduction-to-big-data)
 | 43. | [Machine Learning Basics](https://teamtreehouse.com/library/machine-learning-basics)
+| 44. | [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+| 45. | [Linear Algebra](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+
 
 ## Unit 15: Deep Learning, Machine Learning, & AI
 > Doctoral Level preparation for thesis work in a [Kaggle Competition](https://www.kaggle.com/duliodenis).
@@ -249,11 +252,11 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 
 | No. | Course  
 | --- | -------------
-| 44. | [Practical Deep Learning For Coders, Part 1](https://course.fast.ai/index.html)
-| 45. | [Practical Deep Learning For Coders, Part 2](https://course.fast.ai/part2.html)
-| 46. | [Introduction to Machine Learning for Coders](https://course.fast.ai/ml.html)
-| 47. | [Artifical Intelligence Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
-| 48. | Doctoral Thesis: TBA 
+| 46. | [Practical Deep Learning For Coders, Part 1](https://course.fast.ai/index.html)
+| 47. | [Practical Deep Learning For Coders, Part 2](https://course.fast.ai/part2.html)
+| 48. | [Introduction to Machine Learning for Coders](https://course.fast.ai/ml.html)
+| 49. | [Artifical Intelligence Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
+| 50. | Doctoral Thesis: TBA 
 
 ## Licensing
 My Python Master Degree projects are licensed under [the MIT License](LICENSE).
