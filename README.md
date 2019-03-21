@@ -218,7 +218,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | 29. | [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
 
 ## Unit 14: Data Science
-> Second Year Master Level with fourteen courses.
+> Second Year Master Level with sixteen courses.
 
 > Data science unifies statistics, data analysis, machine learning and their related methods in order to understand and analyze actual phenomena with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science. In this track, we'll be exploring the tools and techniques to get you started on your journey. You'll pick up the basic building blocks of how to analyze and communicate data findings.
 
