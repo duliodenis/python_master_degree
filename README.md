@@ -17,10 +17,10 @@ Modeled after an academic structure this intensely focused area of study is brok
 | No. | Degree | Year | Name | Status
 | --- | --- | --- | --- | ---
 | 1. | Bachelor | Freshman | Beginning Python | ![](art/checkmark.png?raw=true)
-| 2. | Bachelor | Sophomore | Intermediate Python | ![](art/working.png?raw=true)
-| 3. | Bachelor | Junior | Flask Framework
-| 4. | Bachelor | Senior | Django Framework
-| 5. | Master | Year 1 | Algorithms & Data Structures
+| 2. | Bachelor | Sophomore | Intermediate Python | ![](art/checkmark.png?raw=true)
+| 3. | Bachelor | Junior | Flask Framework | ![](art/skip.png?raw=true)
+| 4. | Bachelor | Senior | Django Framework | ![](art/skip.png?raw=true)
+| 5. | Master | Year 1 | Algorithms & Data Structures | ![](art/working.png?raw=true)
 | 6. | Master | Year 2 | Data Science
 | 7. | Doctoral | Year 1 | Deep Learning
 | 8. | Doctoral | Year 2 | Machine Learning
@@ -54,7 +54,7 @@ The Bachelor's Fullstack Python Treehouse Techdegree is composed of the followin
 | 1. | Beginning Track: Python Basics | 2 | Dec 1 - 3 | 3 days
 | 2. | Collections & OO | 2 | Dec 4 - 22 | 18 days
 | 3. | Date & Time, Better Python, Regular Expressions | 3 | Dec 23 - 29 | 6 days
-| 4. | Intermediate Track : Databases, Testing, Functional | 3 | Dec 30 - | TBA
+| 4. | Intermediate Track : Databases, Testing, Functional | 3 | Dec 30 - Mar 22 | 24 days
 | 5. | Flask Track | 4
 | 6. | Django Track: Basics | 2
 | 7. | Django: Forms | 1
@@ -64,7 +64,7 @@ The Bachelor's Fullstack Python Treehouse Techdegree is composed of the followin
 | 11. | Django: REST APIs | 2
 | 12. | Django: Authentication | 1
 | 13. | Algorithms & Data Structures Track | 5
-| 14. | Data Science Track | 14
+| 14. | Data Science Track | 16
 | 15. | DL, ML, & AI Nanodegree | 4
 
 # Courses
@@ -119,7 +119,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | W4. | [Comprehensions](https://teamtreehouse.com/library/python-comprehensions) | ![](art/checkmark.png?raw=true)
 | W5. | [Decorators](https://teamtreehouse.com/library/python-decorators) | ![](art/checkmark.png?raw=true)
 | W6. | [Type Hinting](https://teamtreehouse.com/library/python-type-hinting) | ![](art/checkmark.png?raw=true)
-| 10. | [Functional Python](https://teamtreehouse.com/library/functional-python) | ![](art/working.png?raw=true) 
+| 10. | [Functional Python](https://teamtreehouse.com/library/functional-python) | ![](art/checkmark.png?raw=true)
 | P4. | Project 4: Work Log with a DB
 
 ## Unit 5: Personal Learning Journal (Flask)
@@ -209,9 +209,9 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 
 > With increasing frequency algorithms are starting to shape our lives in many ways - from the products recommended to us, the friends we interact with on social media and even in important social issues like policing, privacy and healthcare. By the end of this track you will understand what algorithms and data structures are, how they are measured and evaluated and how they are used to solve common, complex problems.
 
-| No. | Course  
-| --- | -------------
-| 25. | [Algorithms](https://teamtreehouse.com/library/introduction-to-algorithms)
+| No. | Course  | Status
+| --- | ------------- | -------
+| 25. | [Algorithms](https://teamtreehouse.com/library/introduction-to-algorithms) | ![](art/working.png?raw=true) 
 | 26. | [Data Structures](https://teamtreehouse.com/library/introduction-to-data-structures)
 | 27. | [Sorting & Searching](https://teamtreehouse.com/library/algorithms-sorting-and-searching)
 | 28. | [Intro to Algorithms](https://classroom.udacity.com/courses/cs215)
@@ -229,7 +229,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | 32. | [Modifying Data with SQL](https://teamtreehouse.com/library/modifying-data-with-sql)
 | 33. | [Reporting with SQL](https://teamtreehouse.com/library/reporting-with-sql)
 | 34. | [Querying Relational Databases](https://teamtreehouse.com/library/querying-relational-databases)
-| W8. | [Common Table Expressioons using WITH](https://teamtreehouse.com/library/common-table-expressions-using-with)
+| W8. | [Common Table Expressions using WITH](https://teamtreehouse.com/library/common-table-expressions-using-with)
 | 35. | [SQL Reporting by example](https://teamtreehouse.com/library/sql-reporting-by-example)
 | W9. | [Anaconda](https://teamtreehouse.com/library/introduction-to-anaconda)
 | W10. | [Jupyter Notebooks](https://teamtreehouse.com/library/jupyter-notebooks)

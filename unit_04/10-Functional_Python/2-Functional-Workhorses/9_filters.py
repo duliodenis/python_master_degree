@@ -59,7 +59,5 @@ words = [
     'today',
 ]
 
-
-
 y_words = [word for word in words if word[0] == 'y']
 print(y_words)
