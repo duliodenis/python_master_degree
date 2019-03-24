@@ -63,7 +63,7 @@ The Bachelor's Fullstack Python Treehouse Techdegree is composed of the followin
 | 10. | Flask: REST APIs | 2
 | 11. | Django: REST APIs | 2
 | 12. | Django: Authentication | 1
-| 13. | Algorithms & Data Structures Track | 5
+| 13. | Algorithms & Data Structures Track | 5 | Mar 23 - TBA | TBA
 | 14. | Data Science Track | 16
 | 15. | DL, ML, & AI Nanodegree | 4
 
@@ -211,9 +211,9 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 
 | No. | Course  | Status
 | --- | ------------- | -------
-| 25. | [Algorithms](https://teamtreehouse.com/library/introduction-to-algorithms) | ![](art/working.png?raw=true) 
-| 26. | [Data Structures](https://teamtreehouse.com/library/introduction-to-data-structures)
-| 27. | [Sorting & Searching](https://teamtreehouse.com/library/algorithms-sorting-and-searching)
+| 25. | [Algorithms](https://teamtreehouse.com/library/introduction-to-algorithms) | ![](art/checkmark.png?raw=true)
+| 26. | [Data Structures](https://teamtreehouse.com/library/introduction-to-data-structures) | ![](art/checkmark.png?raw=true)
+| 27. | [Sorting & Searching](https://teamtreehouse.com/library/algorithms-sorting-and-searching) | ![](art/working.png?raw=true) 
 | 28. | [Intro to Algorithms](https://classroom.udacity.com/courses/cs215)
 | 29. | [Data Structures & Algorithms in Python](https://classroom.udacity.com/courses/ud513)
 
