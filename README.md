@@ -220,11 +220,12 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 ## Unit 14: Data Science
 > Second Year Master Level with sixteen courses.
 
-> Data science unifies statistics, data analysis, machine learning and their related methods in order to understand and analyze actual phenomena with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science. In this track, we'll be exploring the tools and techniques to get you started on your journey. You'll pick up the basic building blocks of how to analyze and communicate data findings.
+> [Data science](https://teamtreehouse.com/tracks/beginning-data-science) unifies statistics, data analysis, machine learning and their related methods in order to understand and analyze actual phenomena with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science. In this track, we'll be exploring the tools and techniques to get you started on your journey. You'll pick up the basic building blocks of how to analyze and communicate data findings.
 
 | No. | Course  
 | --- | -------------
-| 30. | [Data Analysis Basics](https://teamtreehouse.com/library/data-analysis-basics)
+| 30. | [Data Science Basics](https://teamtreehouse.com/library/data-science-basics)
+| 30b. | [Data Analysis Basics](https://teamtreehouse.com/library/data-analysis-basics)
 | 31. | [SQL Basics](https://teamtreehouse.com/library/sql-basics)
 | 32. | [Modifying Data with SQL](https://teamtreehouse.com/library/modifying-data-with-sql)
 | 33. | [Reporting with SQL](https://teamtreehouse.com/library/reporting-with-sql)
