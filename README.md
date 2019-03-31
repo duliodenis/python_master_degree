@@ -64,7 +64,7 @@ The Bachelor's Fullstack Python Treehouse Techdegree is composed of the followin
 | 11. | Django: REST APIs | 2
 | 12. | Django: Authentication | 1
 | 13. | Algorithms & Data Structures Track | 5 | Mar 23 - TBA | TBA
-| 14. | Data Science Track | 16
+| 14. | Data Science Track | 16 | Mar 31 - TBA | TBA
 | 15. | DL, ML, & AI Nanodegree | 4
 
 # Courses
@@ -222,10 +222,9 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 
 > [Data science](https://teamtreehouse.com/tracks/beginning-data-science) unifies statistics, data analysis, machine learning and their related methods in order to understand and analyze actual phenomena with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science. In this track, we'll be exploring the tools and techniques to get you started on your journey. You'll pick up the basic building blocks of how to analyze and communicate data findings.
 
-| No. | Course  
-| --- | -------------
-| 30. | [Data Science Basics](https://teamtreehouse.com/library/data-science-basics)
-| 30b. | [Data Analysis Basics](https://teamtreehouse.com/library/data-analysis-basics)
+| No. | Course | Status 
+| --- | ------------- | -------
+| 30. | [Data Analysis Basics](https://teamtreehouse.com/library/data-analysis-basics) | ![](art/working.png?raw=true) 
 | 31. | [SQL Basics](https://teamtreehouse.com/library/sql-basics)
 | 32. | [Modifying Data with SQL](https://teamtreehouse.com/library/modifying-data-with-sql)
 | 33. | [Reporting with SQL](https://teamtreehouse.com/library/reporting-with-sql)
@@ -244,6 +243,7 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | 43. | [Machine Learning Basics](https://teamtreehouse.com/library/machine-learning-basics)
 | 44. | [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
 | 45. | [Linear Algebra](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+| 45+. | [Data Science Basics](https://teamtreehouse.com/library/data-science-basics)
 
 
 ## Unit 15: Deep Learning, Machine Learning, & AI
