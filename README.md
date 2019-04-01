@@ -222,6 +222,8 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 
 > [Data science](https://teamtreehouse.com/tracks/beginning-data-science) unifies statistics, data analysis, machine learning and their related methods in order to understand and analyze actual phenomena with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science. In this track, we'll be exploring the tools and techniques to get you started on your journey. You'll pick up the basic building blocks of how to analyze and communicate data findings.
 
+> This track includes [the Beginning SQL track](https://teamtreehouse.com/tracks/beginning-sql) in order to get familiar with the basics of SQL which has six SQL courses (31-35 + W8). SQL, or the Structured Query Language, is used to create, retrieve, update, and delete data from databases. Knowing SQL and its overarching concepts will be handy as you work with Python data libraries.
+
 | No. | Course | Status 
 | --- | ------------- | -------
 | 30. | [Data Analysis Basics](https://teamtreehouse.com/library/data-analysis-basics) | ![](art/working.png?raw=true) 
