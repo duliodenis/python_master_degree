@@ -226,8 +226,8 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 
 | No. | Course | Status 
 | --- | ------------- | -------
-| 30. | [Data Analysis Basics](https://teamtreehouse.com/library/data-analysis-basics) | ![](art/working.png?raw=true) 
-| 31. | [SQL Basics](https://teamtreehouse.com/library/sql-basics)
+| 30. | [Data Analysis Basics](https://teamtreehouse.com/library/data-analysis-basics) | ![](art/checkmark.png?raw=true)
+| 31. | [SQL Basics](https://teamtreehouse.com/library/sql-basics) | ![](art/working.png?raw=true)
 | 32. | [Modifying Data with SQL](https://teamtreehouse.com/library/modifying-data-with-sql)
 | 33. | [Reporting with SQL](https://teamtreehouse.com/library/reporting-with-sql)
 | 34. | [Querying Relational Databases](https://teamtreehouse.com/library/querying-relational-databases)
