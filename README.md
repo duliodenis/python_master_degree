@@ -21,7 +21,7 @@ Modeled after an academic structure this intensely focused area of study is brok
 | 3. | Bachelor | Junior | Flask Framework | ![](art/skip.png?raw=true)
 | 4. | Bachelor | Senior | Django Framework | ![](art/skip.png?raw=true)
 | 5. | Master | Year 1 | Algorithms & Data Structures | ![](art/working.png?raw=true)
-| 6. | Master | Year 2 | Data Science
+| 6. | Master | Year 2 | Data Science | ![](art/working.png?raw=true)
 | 7. | Doctoral | Year 1 | Deep Learning
 | 8. | Doctoral | Year 2 | Machine Learning
 | 9. | Doctoral | Year 3 | Artificial Intelligence
