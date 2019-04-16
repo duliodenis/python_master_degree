@@ -222,14 +222,14 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 
 > [Data science](https://teamtreehouse.com/tracks/beginning-data-science) unifies statistics, data analysis, machine learning and their related methods in order to understand and analyze actual phenomena with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science. In this track, we'll be exploring the tools and techniques to get you started on your journey. You'll pick up the basic building blocks of how to analyze and communicate data findings.
 
-> This track includes [the Beginning SQL track](https://teamtreehouse.com/tracks/beginning-sql) in order to get familiar with the basics of SQL which has six SQL courses (31-35 + W8). SQL, or the Structured Query Language, is used to create, retrieve, update, and delete data from databases. Knowing SQL and its overarching concepts will be handy as you work with Python data libraries.
+> This track includes [the Beginning SQL track](https://teamtreehouse.com/tracks/beginning-sql) in order to get familiar with the basics of SQL which has **Six SQL courses** (31-35 + W8). SQL, or the Structured Query Language, is used to create, retrieve, update, and delete data from databases. Knowing SQL and its overarching concepts will be handy as you work with Python data libraries.
 
 | No. | Course | Status 
 | --- | ------------- | -------
 | 30. | [Data Analysis Basics](https://teamtreehouse.com/library/data-analysis-basics) | ![](art/checkmark.png?raw=true)
-| 31. | [SQL Basics](https://teamtreehouse.com/library/sql-basics) | ![](art/checkmark.png?raw=true) 
-| 32. | [Modifying Data with SQL](https://teamtreehouse.com/library/modifying-data-with-sql) | ![](art/checkmark.png?raw=true) 
-| 33. | [Reporting with SQL](https://teamtreehouse.com/library/reporting-with-sql) | ![](art/working.png?raw=true)
+| 31. | [SQL Basics](https://teamtreehouse.com/library/sql-basics) | ![](art/checkmark.png?raw=true) ![](art/database.png?raw=true) 
+| 32. | [Modifying Data with SQL](https://teamtreehouse.com/library/modifying-data-with-sql) | ![](art/checkmark.png?raw=true) ![](art/database.png?raw=true)
+| 33. | [Reporting with SQL](https://teamtreehouse.com/library/reporting-with-sql) | ![](art/working.png?raw=true) ![](art/database.png?raw=true)
 | 34. | [Querying Relational Databases](https://teamtreehouse.com/library/querying-relational-databases)
 | W8. | [Common Table Expressions using WITH](https://teamtreehouse.com/library/common-table-expressions-using-with)
 | 35. | [SQL Reporting by example](https://teamtreehouse.com/library/sql-reporting-by-example)
@@ -256,10 +256,10 @@ The Bachelors Treehouse Techdegree has the first Twenty-Four Courses across the 
 | No. | Course  
 | --- | -------------
 | 46. | [Practical Deep Learning For Coders, Part 1](https://course.fast.ai/index.html)
-| 47. | [Practical Deep Learning For Coders, Part 2](https://course.fast.ai/part2.html)
-| 48. | [Introduction to Machine Learning for Coders](https://course.fast.ai/ml.html)
-| 49. | [Artifical Intelligence Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
-| 50. | Doctoral Thesis: TBA 
+| 47. | [Cutting Edge Deep Learning For Coders, Part 2](http://course18.fast.ai/part2.html)
+| 48. | [Introduction to Machine Learning for Coders](course18.fast.ai/ml)
+| 49. | [Nanodegree at the School of AI](https://www.udacity.com/school-of-ai) or [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
+| 50. | Doctoral Thesis: Participation in a [Kaggle Competition](https://www.kaggle.com/competitions)
 
 ## Licensing
 My Python Master Degree projects are licensed under [the MIT License](LICENSE).
