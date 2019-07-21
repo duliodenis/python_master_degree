@@ -13,6 +13,9 @@ Month. | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |14 | 15 | 16 | 1
 | Feb | | | | | | | | | | | | | | | | | | | | | | | 47 | 48 | 49 | 50 |
 | Mar | 51 | | | | | | | | | 52 | | | | | | | | | | | 53 | 54 | 55 | 56 | 57 | | | | | | 58
 | Apr | 59 | | | | | 60 | 61 | | | | | | 62 | 63 | 64
+| Jul | | | | | | | | | | | | | | | | | | | | | 65 |
+
+> 65. Sunday, Jul 21, 2019. Finished Ordering, Limiting, and Paging in the Reporting with SQL Course. 
 
 > 64. Monday, Apr 15, 2019. Started the Reporting with SQL Course. 
 
